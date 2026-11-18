@@ -1,0 +1,8 @@
+group,decoded_records,eos_present,eos_absent,literal_final_punctuation,pad_before_eos
+BASE,30,0,30,1,0
+L0,60,0,60,4,0
+L3,60,1,59,4,0
+L4,60,0,60,3,0
+L5,60,0,60,7,0
+L6,60,0,60,4,0
+L7,60,0,60,2,0

@@ -1,0 +1,8 @@
+﻿cutoff,locked_codes,n_base_stories,n_rollouts,mean_token_agreement_pct,cluster_bootstrap_ci_low,cluster_bootstrap_ci_high,mean_character_similarity_pct,mean_bigram_jaccard_pct,mean_suffix_codes_changed_pct,n_terminal_punctuation
+0,1,30,60,6.6406,5.13,8.151,29.5305,5.471,97.599,6
+3,49,30,60,31.6536,28.88,34.596,62.4352,23.4119,84.7804,6
+4,81,30,60,52.2526,48.854,55.612,75.1381,37.3087,73.7798,4
+5,121,30,60,69.6354,66.576,72.617,83.5241,49.1992,64.1122,10
+6,173,30,60,84.6484,82.826,86.562,90.4736,64.3139,54.3412,6
+7,237,30,60,93.75,92.682,94.831,95.7851,80.3503,50.1155,4
+11,641,30,30,100.0,100.0,100.0,100.0,100.0,0.0,2

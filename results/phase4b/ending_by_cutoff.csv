@@ -1,0 +1,8 @@
+﻿group,stories,terminal_punctuation_count,terminal_punctuation_pct,median_chars_after_last_punctuation,stories_with_tail_over_30_chars,median_story_characters
+BASE,30,2,6.67,30.5,15,522.0
+L0,60,6,10.0,18.0,21,500.0
+L3,60,6,10.0,23.5,25,515.5
+L4,60,4,6.67,22.5,23,519.0
+L5,60,10,16.67,25.5,24,520.0
+L6,60,6,10.0,29.0,27,522.0
+L7,60,4,6.67,29.5,29,519.5
